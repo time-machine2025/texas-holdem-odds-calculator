@@ -1,6 +1,6 @@
-# 德州扑克胜率计算器
+# Texas Hold'em Odds Calculator
 
-一个纯前端的德州扑克胜率计算器。打开 HTML 文件即可使用，不需要后端服务，也不需要安装依赖。
+一个纯前端的 Texas Hold'em odds calculator。打开 HTML 文件即可使用，不需要后端服务，也不需要安装依赖。
 
 ## 功能
 
